@@ -1,0 +1,23 @@
+
+
+1. What is Jenkins
+2. Jenkins Terminology
+3. Jenkins Architecture
+4. How to install and configure jenkins
+5. What is Jobs and Type of Jobs in Jenkins
+6. First Job in Jenkins - [ Freestyle ]
+7. Plugins in Jenkins
+8. Manage jenkins users
+9. Jenkins Home and folders
+10. Jenkins DSL vs Scripted pipelines
+11. Jenkins DSL pipeline example
+12. Jenkins Scripted pipeline example
+13. How to automatically generate scripted pipeline using jenkins
+14. Configure tools in jenkins - like different java versions, maven etc.
+15. Design Skeleton of CICD pipeline
+16. Notification in Jenkins
+17. Automation other than CICD in Jenkins
+18. Concept of Upstream Downstream Jobs in Jenkins
+19. Multibranch pipelines
+20. What is shared libraries in Jenkins 
+21. Trigger in Jenkins
